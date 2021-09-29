@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T12:05:16.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="aH9PP2pc1BzS5WPGzncP" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T12:12:45.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YxRIPKrICSEaqso-fOEB" version="15.3.5" type="github">
   <diagram id="2K9cU7jXb9DGQZPl1iZM" name="Page-1">
-    <mxGraphModel dx="2926" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,14 +1324,14 @@
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-120" source="TcHNZ0rZMPNNko7Z3j5H-122" target="TcHNZ0rZMPNNko7Z3j5H-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-122" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;I need a Debit/Credit card?(loans, loan, loan facilities, loan facility)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-122" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;I need a Debit/Credit card?(debit, credit, card, debit card, credit card)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
           <mxGeometry x="30" y="50" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-123" value="Reserved Words in This Section" style="swimlane;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
           <mxGeometry x="360" y="30" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-201" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(11th Q)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;leasing, &lt;br&gt;leasing facility&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-123">
-          <mxGeometry x="32.5" y="50" width="80" height="50" as="geometry" />
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-201" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(14th Q)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;debit, &lt;br&gt;credit, &lt;br&gt;card, &lt;br&gt;debit card, &lt;br&gt;credit card&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-123">
+          <mxGeometry x="25" y="45" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-120" source="TcHNZ0rZMPNNko7Z3j5H-130" target="TcHNZ0rZMPNNko7Z3j5H-142">
           <mxGeometry relative="1" as="geometry" />
@@ -1365,7 +1365,7 @@
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-120" source="TcHNZ0rZMPNNko7Z3j5H-145" target="TcHNZ0rZMPNNko7Z3j5H-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-145" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(11th Q) What do you need?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-145" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(15th Q) What do you need?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
           <mxGeometry x="45" y="370" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-120" source="TcHNZ0rZMPNNko7Z3j5H-147" target="TcHNZ0rZMPNNko7Z3j5H-151">
@@ -1410,7 +1410,7 @@
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-159" value="same steps of (1st case)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
           <mxGeometry x="75" y="770" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-205" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(11th Q) What do you need?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-205" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(16th Q) What do you need?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-120">
           <mxGeometry x="300" y="370" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-120" source="TcHNZ0rZMPNNko7Z3j5H-206" target="TcHNZ0rZMPNNko7Z3j5H-151">
@@ -1436,20 +1436,20 @@
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-120" source="TcHNZ0rZMPNNko7Z3j5H-205" target="TcHNZ0rZMPNNko7Z3j5H-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-160" value="(8th Case) Loan Facilities" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" vertex="1" parent="0ok2K6wH5HigkwixbM4u-317">
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-160" value="(8th Case) Foreign Exchanges" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;startSize=23;" vertex="1" parent="0ok2K6wH5HigkwixbM4u-317">
           <mxGeometry x="3300" y="20" width="550" height="970" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-160" source="TcHNZ0rZMPNNko7Z3j5H-162" target="TcHNZ0rZMPNNko7Z3j5H-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-162" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;I need to know information about loan facilities?(loans, loan, loan facilities, loan facility)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-160">
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-162" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;I need to know about foreign exchanges?(foreign, exchanges, dollar, euro, dinar, rs, pound, ........, foreign exchanges)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-160">
           <mxGeometry x="30" y="50" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-163" value="Reserved Words in This Section" style="swimlane;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-160">
           <mxGeometry x="360" y="30" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-202" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(11th Q)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;leasing, &lt;br&gt;leasing facility&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-163">
-          <mxGeometry x="40" y="50" width="80" height="50" as="geometry" />
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-202" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(17th Q)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;foreign, &lt;br&gt;exchanges, &lt;br&gt;dollar, &lt;br&gt;euro, &lt;br&gt;dinar, &lt;br&gt;rs, &lt;br&gt;pound,&lt;br&gt;&amp;nbsp;........, &lt;br&gt;foreign exchanges&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-163">
+          <mxGeometry x="32.5" y="45" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-160" source="TcHNZ0rZMPNNko7Z3j5H-170" target="TcHNZ0rZMPNNko7Z3j5H-180">
           <mxGeometry relative="1" as="geometry" />
@@ -1479,7 +1479,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-170" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(10th Q) Please tell me what is your preferences?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-160">
+        <mxCell id="TcHNZ0rZMPNNko7Z3j5H-170" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(17th Q) Please tell me what is your preferences?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="TcHNZ0rZMPNNko7Z3j5H-160">
           <mxGeometry x="45" y="160" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcHNZ0rZMPNNko7Z3j5H-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="TcHNZ0rZMPNNko7Z3j5H-160" source="TcHNZ0rZMPNNko7Z3j5H-172" target="TcHNZ0rZMPNNko7Z3j5H-185">

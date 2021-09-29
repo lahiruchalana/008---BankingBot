@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T10:45:30.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="RP-fCFN-4xsKMURgVTiV" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T10:46:41.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="weOGCdUuQGXonVL69GHm" version="15.3.5" type="github">
   <diagram id="2K9cU7jXb9DGQZPl1iZM" name="Page-1">
     <mxGraphModel dx="1888" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -225,7 +225,7 @@
           <mxGeometry x="550" y="20" width="550" height="970" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-237" value="(3rd Case) Bank Account Details" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-87" vertex="1">
-          <mxGeometry y="460" width="550" height="500" as="geometry" />
+          <mxGeometry y="460" width="550" height="510" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-248" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;strokeWidth=3;dashed=1;" parent="0ok2K6wH5HigkwixbM4u-237" vertex="1">
           <mxGeometry x="7.5" y="270" width="232.5" height="90" as="geometry" />
@@ -432,15 +432,6 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-139" value="Reserved Words in This Section" style="swimlane;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
           <mxGeometry x="360" y="30" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-140" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(7th Q)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;online, &lt;br&gt;mobile, &lt;br&gt;online banking,&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;mobile&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;banking&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-139" vertex="1">
-          <mxGeometry x="20" y="30" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-141" value="&lt;b style=&quot;font-size: 10px&quot;&gt;thank you,&lt;br&gt;&amp;nbsp;thank&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;okay&lt;br&gt;no need,&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-139" vertex="1">
-          <mxGeometry x="110" y="90" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-142" value="&lt;b style=&quot;font-size: 10px&quot;&gt;more, &lt;br&gt;need to know more&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-139" vertex="1">
-          <mxGeometry x="10" y="145" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-136" source="0ok2K6wH5HigkwixbM4u-288" target="0ok2K6wH5HigkwixbM4u-292" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -482,23 +473,11 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-300" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Need details&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
           <mxGeometry x="155" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-307" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(7th Q) Please tell me what do you need to know?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
+        <mxCell id="0ok2K6wH5HigkwixbM4u-307" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(9th Q) Please tell me what do you need to know?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
           <mxGeometry x="280" y="350" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-308" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Mobile Banking Account Create&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
-          <mxGeometry x="280" y="420" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-136" source="0ok2K6wH5HigkwixbM4u-307" target="0ok2K6wH5HigkwixbM4u-308" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-309" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Need details&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
-          <mxGeometry x="380" y="420" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-315" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;strokeWidth=3;dashed=1;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
           <mxGeometry x="40" y="610" width="480" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-136" source="0ok2K6wH5HigkwixbM4u-307" target="0ok2K6wH5HigkwixbM4u-309" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-312" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Display steps to create online banking&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-136" vertex="1">
           <mxGeometry x="40" y="500" width="90" height="70" as="geometry" />
@@ -520,28 +499,11 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-144" value="2. SmartPay" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="1650" y="20" width="550" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-144" source="0ok2K6wH5HigkwixbM4u-146" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-146" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;How can I create a Account?(create, create account, account, bank account)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-144" vertex="1">
-          <mxGeometry x="30" y="40" width="170" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-147" value="Reserved Words in This Section" style="swimlane;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-144" vertex="1">
           <mxGeometry x="360" y="30" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-148" value="&lt;b style=&quot;font-size: 10px&quot;&gt;create, &lt;br&gt;create account, &lt;br&gt;account, &lt;br&gt;bank account&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-147" vertex="1">
-          <mxGeometry x="20" y="35" width="90" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-149" value="&lt;b style=&quot;font-size: 10px&quot;&gt;thank you,&lt;br&gt;&amp;nbsp;thank&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;okay&lt;br&gt;no need,&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-147" vertex="1">
-          <mxGeometry x="110" y="90" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-150" value="&lt;b style=&quot;font-size: 10px&quot;&gt;more, &lt;br&gt;need to know more&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-147" vertex="1">
-          <mxGeometry x="10" y="145" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-151" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;pointerEvents=0;fillColor=#000000;" parent="0ok2K6wH5HigkwixbM4u-144" vertex="1">
-          <mxGeometry x="372.5" y="640" width="30" height="30" as="geometry" />
+        <mxCell id="0ok2K6wH5HigkwixbM4u-148" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(10th Q)&lt;br&gt;loans, &lt;br&gt;loan, &lt;br&gt;loan facilities, &lt;br&gt;loan facility&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-147" vertex="1">
+          <mxGeometry x="25" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-3" value="Data Flow of Options" style="swimlane;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="-580" y="1030" width="1390" height="890" as="geometry" />
@@ -800,7 +762,7 @@
           <mxGeometry x="550" y="20" width="550" height="970" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-373" value="(3rd Case) Bank Account Details" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-372" vertex="1">
-          <mxGeometry y="460" width="550" height="500" as="geometry" />
+          <mxGeometry y="460" width="550" height="510" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-374" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;strokeWidth=3;dashed=1;" parent="0ok2K6wH5HigkwixbM4u-373" vertex="1">
           <mxGeometry x="7.5" y="270" width="232.5" height="90" as="geometry" />
@@ -1007,14 +969,8 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-431" value="Reserved Words in This Section" style="swimlane;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="360" y="30" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-432" value="&lt;b style=&quot;font-size: 10px&quot;&gt;(7th Q)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;online, &lt;br&gt;mobile, &lt;br&gt;online banking,&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;mobile&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;banking&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-431" vertex="1">
-          <mxGeometry x="20" y="30" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-433" value="&lt;b style=&quot;font-size: 10px&quot;&gt;thank you,&lt;br&gt;&amp;nbsp;thank&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;okay&lt;br&gt;no need,&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-431" vertex="1">
-          <mxGeometry x="110" y="90" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-434" value="&lt;b style=&quot;font-size: 10px&quot;&gt;more, &lt;br&gt;need to know more&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-431" vertex="1">
-          <mxGeometry x="10" y="145" width="110" height="40" as="geometry" />
+        <mxCell id="0ok2K6wH5HigkwixbM4u-432" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;(7th Q)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;online, &lt;br&gt;mobile, &lt;br&gt;(online banking,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;mobile&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;banking)&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-431" vertex="1">
+          <mxGeometry x="20" y="35" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-437" target="0ok2K6wH5HigkwixbM4u-439" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1031,12 +987,13 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-439" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Online Banking&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="80" y="230" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-441" target="0ok2K6wH5HigkwixbM4u-447" edge="1">
+        <mxCell id="0ok2K6wH5HigkwixbM4u-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-441" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="320" />
               <mxPoint x="386" y="320" />
             </Array>
+            <mxPoint x="385.6399999999999" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-441" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Mobile Banking&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
@@ -1048,7 +1005,7 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-444" target="0ok2K6wH5HigkwixbM4u-446" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-444" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(7th Q) Please tell me what do you need to know?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
+        <mxCell id="0ok2K6wH5HigkwixbM4u-444" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(8th Q) Please tell me what do you need to know?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="55" y="350" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-445" target="0ok2K6wH5HigkwixbM4u-453" edge="1">
@@ -1057,26 +1014,14 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-445" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Online Banking Account Create&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="55" y="420" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8_q-ypvE0YWIPZF5PDAi-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-446" target="0ok2K6wH5HigkwixbM4u-467">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-446" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Need details&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="155" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-447" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(7th Q) Please tell me what do you need to know?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
-          <mxGeometry x="280" y="350" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-448" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Mobile Banking Account Create&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
-          <mxGeometry x="280" y="420" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-447" target="0ok2K6wH5HigkwixbM4u-448" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-450" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Need details&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
-          <mxGeometry x="380" y="420" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-451" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;strokeWidth=3;dashed=1;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="40" y="610" width="480" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-447" target="0ok2K6wH5HigkwixbM4u-450" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-453" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Display steps to create online banking&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="40" y="500" width="90" height="70" as="geometry" />
@@ -1128,31 +1073,41 @@
         <mxCell id="0ok2K6wH5HigkwixbM4u-467" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Display details of online banking&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
           <mxGeometry x="140" y="500" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-457" value="2. SmartPay" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-317" vertex="1">
+        <mxCell id="0ok2K6wH5HigkwixbM4u-308" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Mobile Banking Account Create&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
+          <mxGeometry x="275" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_q-ypvE0YWIPZF5PDAi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-308" target="0ok2K6wH5HigkwixbM4u-468">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ok2K6wH5HigkwixbM4u-309" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Need details&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-428" vertex="1">
+          <mxGeometry x="375" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_q-ypvE0YWIPZF5PDAi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="0ok2K6wH5HigkwixbM4u-428" source="0ok2K6wH5HigkwixbM4u-309" target="0ok2K6wH5HigkwixbM4u-469">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ok2K6wH5HigkwixbM4u-457" value="(5th Case) Loan Facilities" style="swimlane;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-317" vertex="1">
           <mxGeometry x="1650" y="20" width="550" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="0ok2K6wH5HigkwixbM4u-457" source="0ok2K6wH5HigkwixbM4u-459" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="120" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8_q-ypvE0YWIPZF5PDAi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="0ok2K6wH5HigkwixbM4u-457" source="0ok2K6wH5HigkwixbM4u-459" target="8_q-ypvE0YWIPZF5PDAi-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-459" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;How can I create a Account?(create, create account, account, bank account)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-457" vertex="1">
-          <mxGeometry x="30" y="40" width="170" height="50" as="geometry" />
+        <mxCell id="0ok2K6wH5HigkwixbM4u-459" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;I need to know information about loan facilities?(loans, loan, loan facilities, loan facility)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#8AF3FF;" parent="0ok2K6wH5HigkwixbM4u-457" vertex="1">
+          <mxGeometry x="30" y="50" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0ok2K6wH5HigkwixbM4u-460" value="Reserved Words in This Section" style="swimlane;hachureGap=4;pointerEvents=0;" parent="0ok2K6wH5HigkwixbM4u-457" vertex="1">
           <mxGeometry x="360" y="30" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-461" value="&lt;b style=&quot;font-size: 10px&quot;&gt;create, &lt;br&gt;create account, &lt;br&gt;account, &lt;br&gt;bank account&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-460" vertex="1">
-          <mxGeometry x="20" y="35" width="90" height="70" as="geometry" />
+        <mxCell id="8_q-ypvE0YWIPZF5PDAi-7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;(10th Q) Please tell me what is your preferences?&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="0ok2K6wH5HigkwixbM4u-457">
+          <mxGeometry x="45" y="160" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-462" value="&lt;b style=&quot;font-size: 10px&quot;&gt;thank you,&lt;br&gt;&amp;nbsp;thank&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;okay&lt;br&gt;no need,&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-460" vertex="1">
-          <mxGeometry x="110" y="90" width="70" height="70" as="geometry" />
+        <mxCell id="8_q-ypvE0YWIPZF5PDAi-11" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Mobile Banking&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="0ok2K6wH5HigkwixbM4u-457">
+          <mxGeometry x="10" y="230" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-463" value="&lt;b style=&quot;font-size: 10px&quot;&gt;more, &lt;br&gt;need to know more&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0ok2K6wH5HigkwixbM4u-460" vertex="1">
-          <mxGeometry x="10" y="145" width="110" height="40" as="geometry" />
+        <mxCell id="0ok2K6wH5HigkwixbM4u-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="1" source="0ok2K6wH5HigkwixbM4u-307" target="0ok2K6wH5HigkwixbM4u-308" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ok2K6wH5HigkwixbM4u-464" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;pointerEvents=0;fillColor=#000000;" parent="0ok2K6wH5HigkwixbM4u-457" vertex="1">
-          <mxGeometry x="372.5" y="640" width="30" height="30" as="geometry" />
+        <mxCell id="0ok2K6wH5HigkwixbM4u-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=5;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" parent="1" source="0ok2K6wH5HigkwixbM4u-307" target="0ok2K6wH5HigkwixbM4u-309" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -14,6 +14,16 @@ class ActionProvider {
     this.addMessageToState(message);
   };
 
+  handleSmartPay = () => {
+    const message = this.createChatBotMessage(
+      "Please tell me what type of payment you need to pay?", 
+      {
+        widget: "paymentTypeOptions",
+      }
+    );
+    this.addMessageToState(message);
+  };
+
   handleCreateBankAccount = () => {
     const message = this.createChatBotMessage(
       "Please select a Account Type", 

@@ -10,7 +10,13 @@ class MessageParser {
     if (lowercase.includes("hello") || lowercase.includes("hi") || lowercase.includes("hey") ) {
       this.actionProvider.greet();
     }
-
+    
+    if (lowercase.includes("smartpay") || lowercase.includes("payment") || lowercase.includes("pay")
+        || lowercase.includes("paying") || lowercase.includes("paid") || 
+        lowercase.includes("bill payment") || lowercase.includes("bill") || lowercase.includes("payments")) {
+      this.actionProvider.handleSmartPay();
+    }
+    
     if (lowercase.includes("account") || lowercase.includes("create account") || lowercase.includes("bank account")
         || lowercase.includes("create bank account") ) {
       this.actionProvider.handleCreateBankAccount();
@@ -35,7 +41,7 @@ class MessageParser {
       this.actionProvider.handlenextRoundOfOptions();
     } 
 
-    if (lowercase.includes("no") || lowercase.includes("thank") || lowercase.includes("nice")) {
+    if (lowercase.includes("thanks")) {
       this.actionProvider.endingOfConversation();
     } 
   }

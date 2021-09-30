@@ -3,6 +3,7 @@ import { createChatBotMessage } from "react-chatbot-kit";
 
 import Options from "../components/Options/Options";
 import AccountTypeOptions from "../components/Options/AccountTypeOptions";
+import PaymentTypeOptions from "../components/Options/PaymentTypeOptions";
 import Quiz from "../components/Quiz/Quiz";
 
 const config = {
@@ -20,6 +21,10 @@ const config = {
     {
       widgetName: "nextRoundOfOptions",
       widgetFunc: (props) => <Options {...props} />,
+    },
+    {
+      widgetName: "paymentTypeOptions",
+      widgetFunc: (props) => <PaymentTypeOptions {...props} />,
     },
     {
       widgetName: "accountTypeOptions",

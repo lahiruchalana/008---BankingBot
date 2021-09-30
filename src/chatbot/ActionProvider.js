@@ -14,19 +14,37 @@ class ActionProvider {
     this.addMessageToState(message);
   };
 
+  // SmartPay section bot messages
+  handleSmartPayCommercial = () => {
+    const Text = 'Look like you need to know how to do commercial payments.\n1. You should have a online banking/ mobile banking or credit/debit card\n2. visit ### this link to pay your any commercial payment\n3. first fill your credit or debiot card number\n4. then add OTP'
+    const message = this.createChatBotMessage(Text);
+    this.addMessageToState(message);
+  };
+  handleSmartPayTrade = () => {
+    const Text = 'Look like you need to know how to do trade payments.\n1. You should have a online banking/ mobile banking or credit/debit card\n2. visit ### this link to pay your any commercial payment\n3. first fill your credit or debiot card number\n4. then add OTP'
+    const message = this.createChatBotMessage(Text);
+    this.addMessageToState(message);
+  };
+  handleSmartPayForeignExchanges = () => {
+    const Text = 'Look like you need to know how to do foreign exchanges payments.\n1. You should have a online banking/ mobile banking or credit/debit card\n2. visit ### this link to pay your any commercial payment\n3. first fill your credit or debiot card number\n4. then add OTP'
+    const message = this.createChatBotMessage(Text);
+    this.addMessageToState(message);
+  };
   handleSmartPay = () => {
+    const Text = "Need any payment?"
     const message = this.createChatBotMessage(
-      "Please tell me what type of payment you need to pay?", 
+      Text , 
       {
         widget: "paymentTypeOptions",
       }
-    );
-    this.addMessageToState(message);
-  };
+      );
+      this.addMessageToState(message);
+    };
+    
 
-  handleCreateBankAccount = () => {
-    const message = this.createChatBotMessage(
-      "Please select a Account Type", 
+    handleCreateBankAccount = () => {
+      const message = this.createChatBotMessage(
+        "Select Your Account Type", 
       {
         widget: "accountTypeOptions",
       }

@@ -4,14 +4,21 @@ import "./Options.css";
 
 const Options = (props) => {
   const options = [
-    { text: "Commercial Payments", handler: () => {}, id: 1 },
-    { text: "Trade Payments", handler: () => {}, id: 2 },
-    { text: "Foreign Exchange", handler: () => {}, id: 3 },
-    // {
-    //   text: "Create Account",
-    //   handler: props.actionProvider.handleJavascriptQuiz,
-    //   id: 1,
-    // },
+    { 
+      text: "Commercial Payments",      
+      handler: props.actionProvider.handleSmartPayCommercial,
+      id: 1 
+    },
+    {  
+      text: "Trade Payments",       
+      handler: props.actionProvider.handleSmartPayTrade,
+      id: 2 
+    },
+    { 
+      text: "Foreign Exchange",       
+      handler: props.actionProvider.handleSmartPayForeignExchanges,
+      id: 3 
+    },
   ];
 
   const buttonsMarkup = options.map((option) => (
